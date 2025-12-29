@@ -24,7 +24,7 @@ st.markdown("""
     .main-title {
         font-size: 3rem;
         font-weight: 800;
-        color: #1E3A8A;
+        color: #ffffff;
         text-align: center;
         margin-bottom: 0px;
     }
@@ -135,4 +135,5 @@ if scan_btn:
                 1. **Restrict:** Consider blocking the user.
                 2. **Report:** Use the platform's reporting tools.
                 3. **Ignore:** Avoid engaging with high-toxicity content.
+
                 """)
