@@ -24,7 +24,7 @@ st.markdown("""
     .main-title {
         font-size: 3rem;
         font-weight: 800;
-        color: #ffffff;
+        color: #000000;
         text-align: center;
         margin-bottom: 0px;
     }
@@ -137,3 +137,4 @@ if scan_btn:
                 3. **Ignore:** Avoid engaging with high-toxicity content.
 
                 """)
+
