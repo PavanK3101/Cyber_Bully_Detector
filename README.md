@@ -78,7 +78,7 @@ Since this is a multi-class problem, the project reports:
 
 > Update with your actual numbers after training.
 
-- Best performing model: `BERT` / `Linear SVM with TF–IDF`  
+- Best performing model: `Decision Tree`  
 - Overall Accuracy: `99.45%`  
 - Macro F1-score: `99.00`  
 - Per-class F1:
