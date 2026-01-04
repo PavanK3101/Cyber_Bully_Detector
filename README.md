@@ -86,6 +86,16 @@ Since this is a multi-class problem, the project reports:
   - `ethnicity`: `99.00`
   - `gender`: `100.00`
   - `religion`: `99.00`
+ 
+
+- 2nd Model that performs best - 'Logistic Regression' 
+- Overall Accuracy: `99.22%`  
+- Macro F1-score: `99.00`  
+- Per-class F1:
+  - `not_cyberbullying`: `99.00`
+  - `ethnicity`: `99.00`
+  - `gender`: `99.00`
+  - `religion`: `98.00`
 
 ---
 
