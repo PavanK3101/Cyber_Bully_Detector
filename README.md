@@ -60,8 +60,8 @@ This can assist:
 ### 3. Models
 
 **Baseline models:**
+- Logistic Regression
 - Decision Tree Classifier
-- Multinomial Naive Bayes
 
 
 ### 4. Evaluation
